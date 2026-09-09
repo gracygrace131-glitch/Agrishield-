@@ -1,0 +1,6 @@
+{
+  "name": "Agri Shield",
+  "description": "AI farming companion for smallholder farmers with crop advising, smart irrigation, climate risk alerts, profit prediction, credit scoring, machinery sharing, and seed shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
